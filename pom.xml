@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>cat-angular</artifactId>
-    <version>0.0.33-SNAPSHOT</version>
+    <version>0.0.33</version>
     <name>cat-angular</name>
     <description>WebJar for cat-angular</description>
     <url>http://webjars.org</url>
@@ -56,7 +56,7 @@
         <url>https://github.com/webjars/cat-angular</url>
         <connection>scm:git:https://github.com/webjars/cat-angular.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/cat-angular.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>cat-angular-0.0.33</tag>
     </scm>
 
     <dependencies>
